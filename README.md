@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3312-sorted-gcd-pair-queries) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
