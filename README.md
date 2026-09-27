@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
