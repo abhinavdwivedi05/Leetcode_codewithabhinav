@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0678-valid-parenthesis-string) |
 | [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -123,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
