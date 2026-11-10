@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1929-concatenation-of-array) |
