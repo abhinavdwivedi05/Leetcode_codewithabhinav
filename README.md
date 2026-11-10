@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0278-first-bad-version) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0197-rising-temperature) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
