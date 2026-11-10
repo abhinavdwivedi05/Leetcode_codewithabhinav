@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
