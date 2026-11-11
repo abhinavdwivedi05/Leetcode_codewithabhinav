@@ -65,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -213,8 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
